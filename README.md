@@ -1,5 +1,6 @@
 # Storytime: AI Voice Stories
-
+### Jetpack Compose ile geliştirdiğim Android uygulaması, kullanıcının seçtiği karakter veya konseptlerle ChatGPT API'si kullanarak hikaye oluşturuyor. Oluşturulan hikaye, cihazın yerel Text-to-Speech motoruyla sesli okunuyor. İngilizce ve Türkçe dil desteği sunan ve 
+Google Admob reklamları içeren uygulama, yakında Play Store'da yayınlanacak.
 
 ![main page en](https://github.com/user-attachments/assets/deb507d9-a348-4b21-86b9-8fa2b2d391df)
 ![player en](https://github.com/user-attachments/assets/4a3c16b0-614f-4845-9d5b-53ee7b5a4b65)
